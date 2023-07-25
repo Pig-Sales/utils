@@ -13,7 +13,7 @@ public class User {
     private String username;
     private String user_image;
     private String phone_number;
-    private String IDcard;
+    private String idcard;
     private String create_time;
     private String update_time;
     private String enterprise_name;
