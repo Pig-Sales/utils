@@ -9,6 +9,6 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 public class Tip_Content {
     private String user_auth;
-    private String stste;
+    private String state;
     private String tip_content;
 }
