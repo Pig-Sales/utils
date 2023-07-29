@@ -18,6 +18,7 @@ public class User {
     private String update_time;
     private String enterprise_name;
     private String enterprise_image;
+    private String area;
     private String address;
     private Integer scale;
     private String bank_card_number;
