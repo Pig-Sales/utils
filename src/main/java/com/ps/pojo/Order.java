@@ -29,4 +29,6 @@ public class Order {
     private String quarantine_complete_time;
     private String goods_belong;
     private String deposit_belong;
+    private Integer seller_confirm;
+    private Integer buyer_confirm;
 }

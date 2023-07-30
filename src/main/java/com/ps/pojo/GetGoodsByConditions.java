@@ -8,9 +8,9 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 @AllArgsConstructor
 public class GetGoodsByConditions {
-    Integer page_size;
-    Integer page_num;
-    String input_condition;
-    String order_field;
-    Integer order_type;
+    private Integer page_size;
+    private Integer page_num;
+    private String input_condition;
+    private String order_field;
+    private Integer order_type;
 }
