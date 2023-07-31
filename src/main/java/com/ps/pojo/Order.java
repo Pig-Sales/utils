@@ -31,4 +31,6 @@ public class Order {
     private String deposit_belong;
     private Integer seller_confirm;
     private Integer buyer_confirm;
+
+
 }
