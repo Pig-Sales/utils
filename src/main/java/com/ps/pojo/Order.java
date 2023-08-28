@@ -13,7 +13,7 @@ public class Order {
     private String goods_id;
     private String goods_name;
     private String goods_image;
-    private String state;
+    private String state;//订单目前状态
     private Integer order_number;
     private Float order_price;
     private Integer order_deposit;
@@ -29,8 +29,11 @@ public class Order {
     private String quarantine_complete_time;
     private String goods_belong;
     private String deposit_belong;
-    private Integer seller_confirm;
+    //private Integer seller_confirm;
     private Integer buyer_confirm;
-
-
+    private Integer seller_price;
+    private Integer buyer_price;
+    private String trading_time;
+    private String willing_start_time;
+    private String willing_end_time;
 }
