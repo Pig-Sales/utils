@@ -15,7 +15,7 @@ public class Order {
     private String goods_image;
     private String state;//订单目前状态
     private Integer order_number;
-    private Float order_price;
+    private Float order_price;//订单最终价格
     private Integer order_deposit;
     private String deposit_time;
     private String complete_time;
@@ -31,9 +31,13 @@ public class Order {
     private String deposit_belong;
     //private Integer seller_confirm;
     private Integer buyer_confirm;
+
+
+    // below are the new ones guys
     private Integer seller_price;
     private Integer buyer_price;
     private String trading_time;
     private String willing_start_time;
     private String willing_end_time;
+    private String checked = "0";//0代表未被查询过，默认为 0
 }

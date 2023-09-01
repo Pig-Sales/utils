@@ -13,5 +13,4 @@ public class GetOrderByConditions {
     private String state;
     private Integer page_size;
     private Integer page_num;
-
 }
