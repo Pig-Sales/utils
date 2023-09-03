@@ -17,6 +17,8 @@ public class Goods {
     private Float max_weight;
     private Integer goods_number;
     private String goods_type;
+    private String seller_willing_start_time;
+    private String seller_willing_end_time;
     private String create_time;
     private String update_time;
 }

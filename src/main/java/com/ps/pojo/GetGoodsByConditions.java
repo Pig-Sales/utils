@@ -11,6 +11,7 @@ public class GetGoodsByConditions {
     private Integer page_size;
     private Integer page_num;
     private String input_condition;
+    private String time_condition;
     private String order_field;
     private Integer order_type;
 }
