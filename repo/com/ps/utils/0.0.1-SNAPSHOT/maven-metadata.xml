@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.ps</groupId>
+  <artifactId>utils</artifactId>
+  <versioning>
+    <lastUpdated>20230916035547</lastUpdated>
+    <snapshot>
+      <timestamp>20230916.035547</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.0.1-20230916.035547-1</value>
+        <updated>20230916035547</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.0.1-20230916.035547-1</value>
+        <updated>20230916035547</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+  <version>0.0.1-SNAPSHOT</version>
+</metadata>
