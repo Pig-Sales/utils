@@ -7,7 +7,6 @@
         <groupId>com.ps</groupId>
         <artifactId>ps_parent</artifactId>
         <version>0.0.1-SNAPSHOT</version>
-        <relativePath>../ps_parent/pom.xml</relativePath>
     </parent>
 
     <artifactId>utils</artifactId>
@@ -24,4 +23,10 @@
             <url>file:${basedir}/repo</url>
         </repository>
     </distributionManagement>
+    <repositories>
+        <repository>
+            <id>ps_parent</id>
+            <url>https://raw.githubusercontent.com/Pig-Sales/ps_parent/main</url>
+        </repository>
+    </repositories>
 </project>
