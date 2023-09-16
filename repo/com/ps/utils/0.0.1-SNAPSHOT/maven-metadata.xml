@@ -3,21 +3,21 @@
   <groupId>com.ps</groupId>
   <artifactId>utils</artifactId>
   <versioning>
-    <lastUpdated>20230916063943</lastUpdated>
+    <lastUpdated>20230916070721</lastUpdated>
     <snapshot>
-      <timestamp>20230916.063943</timestamp>
+      <timestamp>20230916.070721</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>0.0.1-20230916.063943-1</value>
-        <updated>20230916063943</updated>
+        <value>0.0.1-20230916.070721-1</value>
+        <updated>20230916070721</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>0.0.1-20230916.063943-1</value>
-        <updated>20230916063943</updated>
+        <value>0.0.1-20230916.070721-1</value>
+        <updated>20230916070721</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
