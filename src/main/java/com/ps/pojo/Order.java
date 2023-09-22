@@ -40,4 +40,8 @@ public class Order {
     private String willing_start_time;
     private String willing_end_time;
     private String checked = "0";//0代表未被查询过，默认为 0
+    private Integer willing_min_weight;//最低体重
+    private Integer willing_max_weight;//最高体重
+    private Integer willing_number;//预期交易数量
+    private String buyer_name;//买家姓名
 }
