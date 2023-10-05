@@ -12,7 +12,6 @@ public class Goods {
     private String user_id;
     private String goods_image;
     private Float price;
-    private Integer deposit;
     private Float min_weight;
     private Float max_weight;
     private Integer goods_number;
