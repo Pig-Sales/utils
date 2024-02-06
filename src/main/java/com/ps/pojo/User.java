@@ -11,6 +11,7 @@ public class User {
     private String user_id;
     private String user_auth;
     private String username;
+    private String password;
     private String user_image;
     private String phone_number;
     private String idcard;
